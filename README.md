@@ -14,4 +14,4 @@ Um repositório para compartilhar materiais de estudo variados.
 - Langs: Materiais relacionados a linguagens;
 - Comp: Materiais relacionados a ciências da computação
 
-Vale ressaltar que os materiais serão adicionados conforme eu os leio ou me são recomendados. 
+Vale ressaltar que os materiais serão adicionados conforme eu os leio ou me são recomendados(caso tenha uma sugestão fale comigo).
