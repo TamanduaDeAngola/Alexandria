@@ -2,7 +2,12 @@
 
 #### Um repositório para compartilhar materiais de estudo variados.
 ---
-## Materiais
+<style>
+  h2{
+    color: blue;
+  }
+</style>
+<h2>Materiais</h2>
 - Math: Materiais relacionados a matemática;
 - Phys: Materiais relacionados a física;
 - Chem: Materiais relacionados a química;
