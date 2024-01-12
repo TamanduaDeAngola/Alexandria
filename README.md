@@ -2,7 +2,7 @@
 
 #### Um repositório para compartilhar materiais de estudo variados.
 ---
-<img src="https://img.dafont.com/preview.php?text=Materiais&ttf=karmatic_arcade0&ext=1&size=53&psize=m&y=56">
+## Materiais
 - Math: Materiais relacionados a matemática;
 - Phys: Materiais relacionados a física;
 - Chem: Materiais relacionados a química;
@@ -12,4 +12,4 @@
 - Langs: Materiais relacionados a linguagens;
 - Comp: Materiais relacionados a ciências da computação
 
-Vale ressaltar que os materiais serão adicionados conforme eu os leio ou me são recomendados.
+Vale ressaltar que os materiais serão adicionados conforme eu os leio ou me são recomendados. 
